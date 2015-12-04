@@ -1,0 +1,156 @@
+
+
+	
+
+/****header****/
+
+header {
+    background-color:#fff;
+    opacity: 0.8;
+    width:  100%;
+    height: 160px;
+    margin: 0 0 30px 0;
+    padding: 5px 0 12px 0;
+  
+
+}
+
+
+h1 {
+  text-align:center;
+  text-decoration: none;
+  color:#555c63; 
+  text-shadow: 1px 3px 9px #fff;
+}
+
+#cargo {
+  font-size: 1.2em;
+  color: #555c63;
+}
+
+.social-icon {
+ width: 40px;
+ height: 40px;
+ margin: 0 5px;
+}
+
+/****NAVIGATION IN HEADER***/
+
+nav ul {/***en caso no se centre el nav revisar el padding ****/
+  
+  padding-left:0;
+}
+
+
+nav ul {
+  list-style: none;
+  text-align:center;
+
+
+}
+
+nav ul li{
+  display: inline;
+}
+
+.social-icon:hover {
+ 
+ border: 1px solid #555c63;
+ border-radius: 100%;
+  
+}
+
+
+ /****BODY******/
+
+ 
+
+
+body {
+  background-size: 100%;
+  color: white;
+ text-shadow: 1px 1px 9px #fff;
+}
+
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 8% 0 10%;
+}
+
+#secondary a {
+  
+  color: #fff;
+  text-decoration: none;
+  
+}
+
+
+/*******imágenes e iconos*****/
+
+.contact-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.contact-info a {
+  display: block;
+  min-height:20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+}
+  
+
+.contact-info li.phone a {
+  background-image: url('../img/fono1.png');
+  
+}
+
+
+
+.contact-info li.mail a {
+  background-image: url('../img/correo.png');
+}
+
+.contact-info li.twitter a {
+  background-image: url('../img/twitter.png');
+}
+
+
+
+
+/*****footer****/
+
+footer {
+  font-size: 1.em;
+  text-align:center;
+  clear: both;
+  padding-top: 200px; 
+  color: #f6f6f4;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
